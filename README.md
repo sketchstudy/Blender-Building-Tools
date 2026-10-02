@@ -7,9 +7,6 @@
 * [Installation](#installation)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
-* [Contributing](#contributing)
-* [Authors](#authors)
 
 ## Background
 
