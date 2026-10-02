@@ -36,7 +36,7 @@ and `Building Tools` was born.
 
 ## Status
 
-`Version` : `v1.0.13`
+`Version` : `v1.0.16`
 
 **Blender 4.0 or Higher Version Compatible** 
 
